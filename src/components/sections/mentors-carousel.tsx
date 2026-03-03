@@ -41,20 +41,20 @@ const MentorsCarousel = () => {
     {
       name: "AlamParvez Khan",
       title: "Textile Expert",
-      image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/AnyConv_com__600x600-mentors-Website-2-4.webp",
-      quote: "I had a great experience interacting with the enthusiastic students of IIFD during my textile workshop. The institute is doing a commendable job of providing practical knowledge to its students, equipping them with skills needed to succeed in the fashion industry."
+      image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/AnyConv_com__600x600-mentors-Website-2-4.webp",
+      quote: "I had a great experience interacting with the enthusiastic students of IIFT during my textile workshop. The institute is doing a commendable job of providing practical knowledge to its students, equipping them with skills needed to succeed in the fashion industry."
     },
     {
       name: "ManmohanKhanna",
       title: "Founder- IIID Chandigarh Chapter",
-      image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/AnyConv_com__600x600-mentors-Website-6-5.webp",
-      quote: "Visiting IIFD for a mentor class on interior design was an enriching experience. The students were enthusiastic and eager to learn, and I was impressed with the institute’s facilities and faculty. I wish the students all the best"
+      image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/AnyConv_com__600x600-mentors-Website-6-5.webp",
+      quote: "Visiting IIFT for a mentor class on interior design was an enriching experience. The students were enthusiastic and eager to learn, and I was impressed with the institute’s facilities and faculty. I wish the students all the best"
     },
     {
       name: "Anuj Sharma",
       title: "Fashion Designer",
-      image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/AnyConv_com__600x600-mentors-Website-3-6.webp",
-      quote: "I was truly impressed by the level of creativity and talent I witnessed during my workshop at IIFD. The students showed great potential and willingness to learn, and I was delighted to be apart of their learning journey."
+      image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/AnyConv_com__600x600-mentors-Website-3-6.webp",
+      quote: "I was truly impressed by the level of creativity and talent I witnessed during my workshop at IIFT. The students showed great potential and willingness to learn, and I was delighted to be apart of their learning journey."
     }
   ];
 

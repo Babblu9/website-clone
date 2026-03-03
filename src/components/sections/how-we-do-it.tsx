@@ -42,10 +42,10 @@ const HowWeDoIt = () => {
             {/* Main Vision Content */}
             <div className="max-w-[75%] lg:max-w-[800px]">
               <p className="mb-6 text-[#333333] font-body text-[16px] leading-[1.6]">
-                Innovative curriculum, hands-on experience and industry-ready professionals, that’s what IIFD is known for. Taught by highly qualified, experienced designers and artists, students can hone their abilities and sharpen their design skills at the institute.
+                Innovative curriculum, hands-on experience and industry-ready professionals, that’s what IIFT is known for. Taught by highly qualified, experienced designers and artists, students can hone their abilities and sharpen their design skills at the institute.
               </p>
               <p className="text-[#333333] font-body text-[16px] leading-[1.6]">
-                Our vision is to take the institute to a level where it is celebrated globally as an institution where students cross traditional disciplinary boundaries to stimulate innovation, partner with creative industries worldwide, and develop innovative design and business solutions. By focusing on these major goals, IIFD will become stronger by conscious design and be known as a strategic organisation—one that applies available resources to greatest effect to achieve its vision.
+                Our vision is to take the institute to a level where it is celebrated globally as an institution where students cross traditional disciplinary boundaries to stimulate innovation, partner with creative industries worldwide, and develop innovative design and business solutions. By focusing on these major goals, IIFT will become stronger by conscious design and be known as a strategic organisation—one that applies available resources to greatest effect to achieve its vision.
               </p>
             </div>
 
@@ -63,7 +63,7 @@ const HowWeDoIt = () => {
                 UNLEASHING <br /> CREATIVITY
               </h4>
               <p className="text-black font-semibold text-[18px] leading-[1.3] font-display">
-                Here’s what that looks like at IIFD
+                Here’s what that looks like at IIFT
               </p>
             </div>
 

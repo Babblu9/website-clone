@@ -14,13 +14,13 @@ const CTAFooter = () => {
 
         {/* Main Heading */}
         <h2 className="font-display text-[48px] lg:text-[72px] font-extrabold uppercase mb-8 leading-[1.1]">
-          Study at IIFD
+          Study at IIFT
         </h2>
 
         {/* CTA Button */}
         <div className="flex justify-center">
           <a
-            href="https://iifd.in/contact-us/"
+            href="https://iift.in/contact-us/"
             className="inline-block border-2 border-white bg-transparent hover:bg-white hover:text-[#ed2024] text-white font-display text-[15px] font-bold py-[12px] px-[32px] uppercase transition-all duration-300 ease-in-out"
           >
             Get In Touch
@@ -46,7 +46,7 @@ const CTAFooter = () => {
         <a
           href="tel:+919041766699"
           className="bg-[#ed2024] p-3 rounded-full shadow-lg border border-white/20 transition-transform hover:scale-110 active:scale-95 flex items-center justify-center w-[54px] h-[54px]"
-          aria-label="Call IIFD"
+          aria-label="Call IIFT"
         >
           <Phone className="w-6 h-6 fill-white text-white" />
         </a>

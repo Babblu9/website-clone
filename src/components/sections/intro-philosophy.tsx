@@ -4,7 +4,7 @@ import React from 'react';
  * IntroPhilosophy Section
  * 
  * This component replicates the introductory text section with a centered red headline
- * and body paragraphs explaining the IIFD living-learning community.
+ * and body paragraphs explaining the IIFT living-learning community.
  */
 const IntroPhilosophy: React.FC = () => {
   return (
@@ -13,7 +13,7 @@ const IntroPhilosophy: React.FC = () => {
         <div className="flex flex-col items-center">
           {/* Centered Large Red Headline */}
           <h2 className="text-[#ED1C24] font-display font-bold text-[28px] md:text-[36px] leading-[1.3] text-center mb-10 max-w-[1000px]">
-            IIFD is a place where discovery does not stop when the class ends. Good memories, True friends, Unforgettable Experiences make sure that you grow, learn and have fun here.
+            IIFT is a place where discovery does not stop when the class ends. Good memories, True friends, Unforgettable Experiences make sure that you grow, learn and have fun here.
           </h2>
 
           {/* Body Text Content */}
@@ -27,7 +27,7 @@ const IntroPhilosophy: React.FC = () => {
             </p>
 
             <p className="font-body font-normal text-[16px] leading-[1.8] text-[#54595F]">
-              Welcome to our living-learning community. Welcome to IIFD.
+              Welcome to our living-learning community. Welcome to IIFT.
             </p>
           </div>
         </div>

@@ -37,7 +37,7 @@ const StudyAtIIFD: React.FC = () => {
             className="text-white font-montserrat font-extrabold text-[36px] md:text-[52px] mb-8 uppercase"
             style={{ lineHeight: '1.1' }}
           >
-            Study at IIFD
+            Study at IIFT
           </h2>
 
           {/* Large White Content Box (Form Placeholder) */}

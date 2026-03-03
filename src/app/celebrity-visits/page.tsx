@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Celebrity Visits | IIFD - Indian Institute of Fashion & Design',
-  description: 'Celebrity Visits at IIFD - Best Fashion Designing College in India',
+  title: 'Celebrity Visits | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Celebrity Visits at IIFT - Best Fashion Designing College in India',
 };
 
 export default function CelebrityVisitsPage() {

@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Blogs | IIFD - Indian Institute of Fashion & Design',
-  description: 'Blogs at IIFD - Best Fashion Designing College in India',
+  title: 'Blogs | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Blogs at IIFT - Best Fashion Designing College in India',
 };
 
 export default function BlogsPage() {

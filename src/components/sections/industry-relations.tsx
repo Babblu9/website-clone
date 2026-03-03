@@ -9,7 +9,7 @@ const IndustryRelations = () => {
           <div className="w-full md:w-1/2">
             <div className="relative overflow-hidden">
               <Image
-                src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/training-and-placement-cover-page-64bfa4b5a149a-18.webp"
+                src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/training-and-placement-cover-page-64bfa4b5a149a-18.webp"
                 alt="Industry Workshop Training"
                 width={550}
                 height={400}
@@ -28,7 +28,7 @@ const IndustryRelations = () => {
               
               <div className="font-poppins text-[#54595f] text-base leading-[1.8] space-y-5">
                 <p>
-                  Students of IIFD get unique opportunity through our specialized placement team to advice students on all the options and help them find employer who best suits their needs and interests. We make sure that all our students shall be given complete advantage of IIFD’s very close relations with the industry.
+                  Students of IIFT get unique opportunity through our specialized placement team to advice students on all the options and help them find employer who best suits their needs and interests. We make sure that all our students shall be given complete advantage of IIFT’s very close relations with the industry.
                 </p>
                 
                 <p>

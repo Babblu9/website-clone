@@ -22,7 +22,7 @@ const HowWeTeach = () => {
                 className="vertical-text pt-[120px] pb-10 text-[#ed1c24] font-display font-bold tracking-[2px] whitespace-nowrap"
                 style={{ writingMode: 'vertical-rl', transform: 'rotate(180deg)' }}
               >
-                EXPERIENCE IIFD
+                EXPERIENCE IIFT
               </div>
             </div>
           </div>
@@ -40,7 +40,7 @@ const HowWeTeach = () => {
             {/* Paragraph Content */}
             <div className="space-y-6 text-[#111111] font-body text-[16px] leading-[1.6]">
               <p>
-                Ranked among the <span className="font-bold">Top Fashion Designing Institute in India</span>, IIFD provide a flexible courses of study in which students are endorsed to develop a strong learning practice. Considered as the <span className="font-bold">Best Fashion Design College in India</span> Indian Institute Of Fashion & Design don’t just prepare our students for a job, we prepare them for a great career through 100% job oriented courses. More than 20 years of legacy makes us a pioneer in producing creative talents in the design industry with a 98% placement record. Through our 360-degree learning process, IIFD empower and equip you to meet the industry requirements and our global alliances make opportunities for you all around the world.
+                Ranked among the <span className="font-bold">Top Fashion Designing Institute in India</span>, IIFT provide a flexible courses of study in which students are endorsed to develop a strong learning practice. Considered as the <span className="font-bold">Best Fashion Design College in India</span> Indian Institute of Fashion Technology & Design don’t just prepare our students for a job, we prepare them for a great career through 100% job oriented courses. More than 20 years of legacy makes us a pioneer in producing creative talents in the design industry with a 98% placement record. Through our 360-degree learning process, IIFT empower and equip you to meet the industry requirements and our global alliances make opportunities for you all around the world.
               </p>
             </div>
 

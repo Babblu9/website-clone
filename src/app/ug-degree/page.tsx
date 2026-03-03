@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Ug Degree | IIFD - Indian Institute of Fashion & Design',
-  description: 'Ug Degree at IIFD - Best Fashion Designing College in India',
+  title: 'Ug Degree | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Ug Degree at IIFT - Best Fashion Designing College in India',
 };
 
 export default function UgDegreePage() {

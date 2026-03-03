@@ -56,8 +56,8 @@ const HeroContactForm: React.FC = () => {
                 </div>
                 <div className="flex items-start gap-4">
                   <Mail className="w-5 h-5 text-white mt-1 shrink-0" />
-                  <a href="mailto:info@iifd.in" className="font-semibold text-base hover:text-white/80 transition-colors">
-                    info@iifd.in
+                  <a href="mailto:info@iift.in" className="font-semibold text-base hover:text-white/80 transition-colors">
+                    info@iift.in
                   </a>
                 </div>
               </div>
@@ -188,7 +188,7 @@ const HeroContactForm: React.FC = () => {
           font-family: var(--font-display);
           font-size: 24px;
           font-weight: 700;
-          color: var(--color-iifd-red);
+          color: var(--color-iift-red);
           text-transform: uppercase;
         }
         .contact-card {

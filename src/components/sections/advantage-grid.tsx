@@ -38,7 +38,7 @@ const AdvantageGrid = () => {
         {/* Section Heading */}
         <div className="text-center mb-[60px]">
           <h2 className="text-white text-[36px] font-bold font-display uppercase tracking-tight m-0">
-            #IIFD Advantage
+            #IIFT Advantage
           </h2>
         </div>
 

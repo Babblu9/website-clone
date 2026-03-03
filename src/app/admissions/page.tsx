@@ -12,8 +12,8 @@ import CampusRecruiters from '@/components/sections/campus-recruiters';
 import AdmissionForm from '@/components/sections/admission-form';
 
 export const metadata = {
-  title: 'Admissions | IIFD - Indian Institute of Fashion & Design',
-  description: 'With a dozen fashion design colleges in Punjab to choose from, here\'s what makes IIFD different. Your new adventures start here.',
+  title: 'Admissions | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'With a dozen fashion design colleges in Punjab to choose from, here\'s what makes IIFT different. Your new adventures start here.',
 };
 
 export default function AdmissionsPage() {

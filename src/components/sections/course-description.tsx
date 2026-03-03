@@ -28,7 +28,7 @@ const CourseDescription = () => {
           <div className="w-full lg:w-[40%] flex justify-center lg:justify-end mt-12 lg:mt-0">
             <div className="relative w-full max-w-[400px] aspect-[1/1.2]">
               <Image
-                src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/Fashion-Courses-at-IIFD-12.png"
+                src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/Fashion-Courses-at-IIFT-12.png"
                 alt="Female fashion design illustration"
                 fill
                 className="object-contain"

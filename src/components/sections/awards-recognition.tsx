@@ -9,22 +9,22 @@ const AwardsRecognition = () => {
     {
       title: "Times Of India Award",
       description:
-        "Times Group Awarded Indian Institute Of Fashion & Design during Edupreneurs for Excellence in Quality Education and its high benchmarks in the field of Fashion Designing. Director Vimi Vansil was awarded by Tript Rajinder Singh Bajwa, Honorable Minister of Higher Education Punjab During The Times of India event.",
+        "Times Group Awarded Indian Institute of Fashion Technology & Design during Edupreneurs for Excellence in Quality Education and its high benchmarks in the field of Fashion Designing. Director Vimi Vansil was awarded by Tript Rajinder Singh Bajwa, Honorable Minister of Higher Education Punjab During The Times of India event.",
     },
     {
-      title: "IIFD accepted as Institutional Member for Association of Designers in India (ADI)",
+      title: "IIFT accepted as Institutional Member for Association of Designers in India (ADI)",
       description:
-        "Association Of Designers in India & Indian Institute Of Fashion & Design has decided to collaborate together and encourage the budding designers and provide them with resources and mentorship to become the best.",
+        "Association Of Designers in India & Indian Institute of Fashion Technology & Design has decided to collaborate together and encourage the budding designers and provide them with resources and mentorship to become the best.",
     },
     {
       title: "Most Emerging Design Institute - 2023",
       description:
-        "IIFD has been awarded the 'Most Emerging Design Institute' in the design industry in 2023, acknowledging the institute's exceptional contributions towards the education and training of future designers. The institute has been applauded for its innovative and creative approach, and this recognition is a testament to their commitment to providing high-quality education.",
+        "IIFT has been awarded the 'Most Emerging Design Institute' in the design industry in 2023, acknowledging the institute's exceptional contributions towards the education and training of future designers. The institute has been applauded for its innovative and creative approach, and this recognition is a testament to their commitment to providing high-quality education.",
     },
     {
-      title: "IIFD Honoured By Bollywood Queen - Madhuri Dixit Nene",
+      title: "IIFT Honoured By Bollywood Queen - Madhuri Dixit Nene",
       description:
-        "Added synergy to various awards, Indian Institute of Fashion & Design is awarded as “Best Fashion Designing Institute in Chandigarh” prestigious International Glory Awards by Madhuri Dixit Nene for excellence in providing higher education in the field of Fashion, Interior and Textile designing.",
+        "Added synergy to various awards, Indian Institute of Fashion Technology & Design is awarded as “Best Fashion Designing Institute in Chandigarh” prestigious International Glory Awards by Madhuri Dixit Nene for excellence in providing higher education in the field of Fashion, Interior and Textile designing.",
     },
   ];
 
@@ -115,7 +115,7 @@ const AwardsRecognition = () => {
             <iframe
               className="absolute top-0 left-0 w-full h-full border-0"
               src="https://www.youtube.com/embed/ZRLVtqrcpps?controls=1&rel=0&playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fiifd.in"
-              title="Chandigarh Times Fashion Week 2022 - IIFD Collection"
+              title="Chandigarh Times Fashion Week 2022 - IIFT Collection"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             ></iframe>

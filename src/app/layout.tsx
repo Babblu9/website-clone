@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "IIFD - Indian Institute of Fashion & Design",
+  title: "IIFT - Indian Institute of Fashion Technology & Design",
   description: "Best Fashion Designing College in India",
 };
 

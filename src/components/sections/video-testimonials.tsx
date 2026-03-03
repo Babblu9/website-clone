@@ -14,12 +14,12 @@ export default function VideoTestimonials() {
     {
       id: "video-1",
       embedId: "example1", // Use placeholders since actual IDs aren't provided in the prompt's content
-      title: "IIFD'ians walking the ramp with Top models and Actress Tejasswi Prakash @ Times Lifestyle Week",
+      title: "IIFT'ians walking the ramp with Top models and Actress Tejasswi Prakash @ Times Lifestyle Week",
     },
     {
       id: "video-2",
       embedId: "example2",
-      title: "Inspiring Success Story of IIFD Student | How He Made It To The Top",
+      title: "Inspiring Success Story of IIFT Student | How He Made It To The Top",
     }
   ];
 
@@ -34,7 +34,7 @@ export default function VideoTestimonials() {
               <iframe
                 className="absolute top-0 left-0 w-full h-full"
                 src="https://www.youtube.com/embed/placeholder1"
-                title="IIFD Testimonial 1"
+                title="IIFT Testimonial 1"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
@@ -42,7 +42,7 @@ export default function VideoTestimonials() {
             </div>
             <div className="bg-brand-red p-3 mt-0">
               <p className="text-white text-[13px] font-medium leading-tight">
-                IIFD'ians walking the ramp with Top models and Actress Tejasswi Prakash @ Times Lifestyle Week
+                IIFT'ians walking the ramp with Top models and Actress Tejasswi Prakash @ Times Lifestyle Week
               </p>
             </div>
           </div>
@@ -52,7 +52,7 @@ export default function VideoTestimonials() {
               <iframe
                 className="absolute top-0 left-0 w-full h-full"
                 src="https://www.youtube.com/embed/placeholder2"
-                title="IIFD Testimonial 2"
+                title="IIFT Testimonial 2"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
@@ -60,7 +60,7 @@ export default function VideoTestimonials() {
             </div>
             <div className="bg-brand-red p-3 mt-0">
               <p className="text-white text-[13px] font-medium leading-tight">
-                Inspiring Success Story of IIFD Student | How He Made It To The Top
+                Inspiring Success Story of IIFT Student | How He Made It To The Top
               </p>
             </div>
           </div>
@@ -92,7 +92,7 @@ export default function VideoTestimonials() {
             {/* Testimonial Content */}
             <div className="w-full">
               <blockquote className="italic font-body text-[16px] md:text-[18px] text-[#555555] leading-[1.8] mb-8 max-w-[800px] mx-auto">
-                "I am doing Fashion Designing degree from IIFD Chandigarh. Here i got Best Fashion Designing Courses in India. A Good place for creative minds."
+                "I am doing Fashion Designing degree from IIFT Chandigarh. Here i got Best Fashion Designing Courses in India. A Good place for creative minds."
               </blockquote>
               
               <div className="mt-4">

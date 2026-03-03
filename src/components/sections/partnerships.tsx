@@ -16,20 +16,20 @@ const IndustryPartnerships = () => {
     {
       id: 1,
       name: "Chandigarh Times Fashion Week",
-      logo: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/Chandigarh-Times-Fashion-Week-Logo-300x199-2.webp",
+      logo: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/Chandigarh-Times-Fashion-Week-Logo-300x199-2.webp",
       alt: "Chandigarh Times Fashion Week Logo"
     },
     {
       id: 2,
       name: "Couture Fashion Week",
-      logo: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/Couture-Fashion-Week-Logo-1-300x199-3.webp",
+      logo: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/Couture-Fashion-Week-Logo-1-300x199-3.webp",
       alt: "Couture Runway Week Logo"
     },
     {
       id: 3,
       name: "ADI Designers of India",
-      logo: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-Association-of-designers-of-india-4.webp",
-      alt: "IIFD with Association of designers of india"
+      logo: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-Association-of-designers-of-india-4.webp",
+      alt: "IIFT with Association of designers of india"
     },
     // Placeholders for additional three cards visible in screenshot
     { id: 4, name: "", logo: null, alt: "" },

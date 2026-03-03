@@ -16,8 +16,8 @@ const WhatWeDo = () => {
         <div className="relative flex justify-center mb-[100px]">
           <div className="relative w-full max-w-[800px] z-10">
             <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/About-US-IIFD-2-1-4.jpg"
-              alt="Students at IIFD outdoor installation"
+              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/About-US-IIFT-2-1-4.jpg"
+              alt="Students at IIFT outdoor installation"
               width={800}
               height={500}
               className="object-cover"
@@ -46,7 +46,7 @@ const WhatWeDo = () => {
           <div className="border-[2px] border-[#ED1C24] mt-[100px] lg:mt-[60px] ml-[20px] lg:ml-[250px] p-8 lg:p-14 relative">
             <div className="max-w-[700px] text-[#333333] text-[16px] leading-[1.8] font-body">
               <p className="mb-6">
-                IIFD prepares students for professional excellence in design and business through rigorous and adaptable academic programs, experiential learning and innovative partnerships. <span className="text-[#ED1C24]">IIFD</span> depicts as a centre for a perfect amalgamation of design education and research.
+                IIFT prepares students for professional excellence in design and business through rigorous and adaptable academic programs, experiential learning and innovative partnerships. <span className="text-[#ED1C24]">IIFT</span> depicts as a centre for a perfect amalgamation of design education and research.
               </p>
               <p className="mb-6">
                 The college makes the students familiar with recent industry trends and works accordingly. It holds a well-established name in the education and fashion ecosystem because of its advanced curriculum, industry insights and national and international exposure.
@@ -85,7 +85,7 @@ const WhatWeDo = () => {
               UNLEASHING CREATIVITY
             </h3>
             <p className="text-[#333333] font-display font-semibold text-[22px] leading-[1.4]">
-              Here&apos;s what that looks like at IIFD
+              Here&apos;s what that looks like at IIFT
             </p>
           </div>
 
@@ -103,10 +103,10 @@ const WhatWeDo = () => {
 
             <div className="max-w-[700px] text-[#333333] text-[16px] leading-[1.8] font-body ml-auto text-right">
               <p className="mb-6">
-                Innovative curriculum, hands-on experience and industry-ready professionals, that&apos;s what IIFD is known for. Taught by highly qualified, experienced designers and artists, students can hone their abilities and sharpen their design skills at the institute.
+                Innovative curriculum, hands-on experience and industry-ready professionals, that&apos;s what IIFT is known for. Taught by highly qualified, experienced designers and artists, students can hone their abilities and sharpen their design skills at the institute.
               </p>
               <p className="mb-0">
-                Our vision is to take the institute to a level where it is celebrated globally as an institution where students cross traditional disciplinary boundaries to stimulate innovation, partner with creative industries worldwide, and develop innovative design and business solutions. By focusing on these major goals, IIFD will become stronger by conscious design and be known as a strategic organisation—one that applies available resources to greatest effect to achieve its vision.
+                Our vision is to take the institute to a level where it is celebrated globally as an institution where students cross traditional disciplinary boundaries to stimulate innovation, partner with creative industries worldwide, and develop innovative design and business solutions. By focusing on these major goals, IIFT will become stronger by conscious design and be known as a strategic organisation—one that applies available resources to greatest effect to achieve its vision.
               </p>
             </div>
           </div>

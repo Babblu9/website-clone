@@ -47,7 +47,7 @@ const GalleryVideo: React.FC = () => {
               width="100%"
               height="100%"
               src="https://www.youtube.com/embed/M3ULA7QAL30?controls=1&rel=0&playsinline=0&cc_load_policy=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fiifd.in"
-              title="IIFD Gallery Video"
+              title="IIFT Gallery Video"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerPolicy="strict-origin-when-cross-origin"

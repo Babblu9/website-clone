@@ -12,20 +12,20 @@ const InterestCategories: React.FC = () => {
   const categories = [
     {
       title: "Fashion Design Courses →",
-      image: "https://iifd.in/wp-content/uploads/2023/10/fashion-design-category.jpg", // Placeholder or dynamic if available, but following the "dark image" instruction
+      image: "https://iift.in/wp-content/uploads/2023/10/fashion-design-category.jpg", // Placeholder or dynamic if available, but following the "dark image" instruction
     },
     {
       title: "Interior Design Courses →",
-      image: "https://iifd.in/wp-content/uploads/2023/10/interior-design-category.jpg",
+      image: "https://iift.in/wp-content/uploads/2023/10/interior-design-category.jpg",
       highlight: true
     },
     {
       title: "Textile Design Courses →",
-      image: "https://iifd.in/wp-content/uploads/2023/10/textile-design-category.jpg",
+      image: "https://iift.in/wp-content/uploads/2023/10/textile-design-category.jpg",
     },
     {
       title: "Specialised Courses →",
-      image: "https://iifd.in/wp-content/uploads/2023/10/specialised-courses-category.jpg",
+      image: "https://iift.in/wp-content/uploads/2023/10/specialised-courses-category.jpg",
       highlight: true
     }
   ];
@@ -48,7 +48,7 @@ const InterestCategories: React.FC = () => {
             I&apos;m Interested in...
           </h2>
           <p className="font-body text-[16px] text-[#111111] max-w-[800px] mx-auto opacity-80">
-            Discover your subject, and experience everything IIFD have to offer to turn your passion into real-world experience.
+            Discover your subject, and experience everything IIFT have to offer to turn your passion into real-world experience.
           </p>
         </div>
 

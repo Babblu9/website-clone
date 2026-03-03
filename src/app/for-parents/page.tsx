@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'For Parents | IIFD - Indian Institute of Fashion & Design',
-  description: 'For Parents at IIFD - Best Fashion Designing College in India',
+  title: 'For Parents | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'For Parents at IIFT - Best Fashion Designing College in India',
 };
 
 export default function ForParentsPage() {

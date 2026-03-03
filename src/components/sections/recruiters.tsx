@@ -13,49 +13,49 @@ import Image from 'next/image';
 const recruiters = [
   {
     name: "Satya Paul",
-    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-satya-paul-5.webp",
+    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-satya-paul-5.webp",
     width: 160,
     height: 80
   },
   {
     name: "Marks & Spencer",
-    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-Marks-and-spencer-7.webp",
+    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-Marks-and-spencer-7.webp",
     width: 160,
     height: 80
   },
   {
     name: "Textile Association of India",
-    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-textile-association-of-India-9.webp",
+    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-textile-association-of-India-9.webp",
     width: 160,
     height: 80
   },
   {
     name: "Zee Logo",
-    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/Zee-logo-Png-1024x536-11.png",
+    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/Zee-logo-Png-1024x536-11.png",
     width: 160,
     height: 80
   },
   {
     name: "The Times of India",
-    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-times-of-india-6.webp",
+    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-times-of-india-6.webp",
     width: 160,
     height: 80
   },
   {
     name: "Panjab Bespoke",
-    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-iwith-UI-international-fashion-week-12.webp",
+    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-iwith-UI-international-fashion-week-12.webp",
     width: 160,
     height: 80
   },
   {
     name: "Redress",
-    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-Redress--10.webp",
+    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-Redress--10.webp",
     width: 160,
     height: 80
   },
   {
     name: "U&I International",
-    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-iwith-UI-international-fashion-week-12.webp",
+    url: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-iwith-UI-international-fashion-week-12.webp",
     width: 160,
     height: 80
   }

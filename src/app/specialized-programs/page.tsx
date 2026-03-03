@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Specialized Programs | IIFD - Indian Institute of Fashion & Design',
-  description: 'Specialized Programs at IIFD - Best Fashion Designing College in India',
+  title: 'Specialized Programs | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Specialized Programs at IIFT - Best Fashion Designing College in India',
 };
 
 export default function SpecializedProgramsPage() {

@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Director Message | IIFD - Indian Institute of Fashion & Design',
-  description: 'Director Message at IIFD - Best Fashion Designing College in India',
+  title: 'Director Message | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Director Message at IIFT - Best Fashion Designing College in India',
 };
 
 export default function DirectorMessagePage() {

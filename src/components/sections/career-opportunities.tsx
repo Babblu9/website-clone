@@ -53,7 +53,7 @@ const CareerOpportunities = () => {
             CAREER OPPORTUNITIES
           </h2>
           <p className="font-body text-[14px] md:text-[16px] leading-[1.6] max-w-[1000px] mx-auto opacity-90">
-            Vast openings will welcome you with folded hands after getting your technical qualification from IIFD 
+            Vast openings will welcome you with folded hands after getting your technical qualification from IIFT 
             in the field of Fashion. The requirements for creative & enthusiastic Fashion Designer, Textile Designer, 
             and Interior Designer with an edge are always there in industry.
           </p>

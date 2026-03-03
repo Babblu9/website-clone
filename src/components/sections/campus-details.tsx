@@ -27,10 +27,10 @@ const CampusDetails = () => {
                 </div>
                 <div>
                   <a 
-                    href="mailto:info@iifd.in" 
+                    href="mailto:info@iift.in" 
                     className="text-[14px] font-semibold hover:underline transition-all duration-300"
                   >
-                    info@iifd.in
+                    info@iift.in
                   </a>
                 </div>
               </div>

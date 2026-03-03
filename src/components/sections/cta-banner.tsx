@@ -32,13 +32,13 @@ const CtaBanner: React.FC = () => {
               marginBottom: '30px'
             }}
           >
-            Study at IIFD
+            Study at IIFT
           </h2>
 
           {/* CTA Button */}
           <div className="mt-4">
             <a 
-              href="https://iifd.in/contact-us/"
+              href="https://iift.in/contact-us/"
               className="inline-block border-2 border-white text-white hover:bg-white hover:text-[#ED2124] transition-all duration-300 font-display font-bold px-[30px] py-[12px] text-[13px] tracking-wide"
               style={{
                 borderRadius: '0px',

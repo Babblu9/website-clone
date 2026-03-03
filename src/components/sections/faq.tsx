@@ -25,7 +25,7 @@ const FAQSection = () => {
       id: "item-3",
       question: "Which College is best for Fashion Design Course in India?",
       answer:
-        "Choosing the best college for a Fashion Design Course in India depends on various factors such as your location preference, budget, entrance exam scores, and personal preferences. \n\nThere are many good institutes and colleges for fashion designing but undoubtedly, Indian Institute of Fashion and Design – IIFD is the best fashion design college in Chandigarh, India to provide practical and career-oriented fashion designing courses to aspiring budding designers. Here are some points to consider when evaluating the suitability of IIFD for your fashion design education:\n\n- Faculty Expertise\n- Infrastructure and Facilities\n- Course Curriculum\n- Industry Exposure\n- Placement Records\n- Reviews and Feedback\n- Entrance Exams",
+        "Choosing the best college for a Fashion Design Course in India depends on various factors such as your location preference, budget, entrance exam scores, and personal preferences. \n\nThere are many good institutes and colleges for fashion designing but undoubtedly, Indian Institute of Fashion and Design – IIFT is the best fashion design college in Chandigarh, India to provide practical and career-oriented fashion designing courses to aspiring budding designers. Here are some points to consider when evaluating the suitability of IIFT for your fashion design education:\n\n- Faculty Expertise\n- Infrastructure and Facilities\n- Course Curriculum\n- Industry Exposure\n- Placement Records\n- Reviews and Feedback\n- Entrance Exams",
     },
     {
       id: "item-4",

@@ -11,12 +11,12 @@ import React from 'react';
 const services = [
   {
     title: "High tech Campus",
-    description: "Explore high tech campus facilities and the world of smart learning with the state of art campus at IIFD.",
+    description: "Explore high tech campus facilities and the world of smart learning with the state of art campus at IIFT.",
     bgColor: "bg-[#ED1C24]",
   },
   {
     title: "100% Placement",
-    description: "IIFD offers 100 % Placement Assistance with an opportunity to be a part of Fashion Shows, Events organised with MNC Organizations.",
+    description: "IIFT offers 100 % Placement Assistance with an opportunity to be a part of Fashion Shows, Events organised with MNC Organizations.",
     bgColor: "bg-[#111111]",
   },
   {
@@ -26,17 +26,17 @@ const services = [
   },
   {
     title: "Academic Facilities",
-    description: "IIFD offers a Vast range of academic facilities. Expert Counselors for Student Assistance, Large Library and Collection of study material etc.",
+    description: "IIFT offers a Vast range of academic facilities. Expert Counselors for Student Assistance, Large Library and Collection of study material etc.",
     bgColor: "bg-[#111111]",
   },
   {
     title: "Hostel",
-    description: "IIFD provides hostel and food facilities for outstation students with the best health and hygiene to make you feel home away from home.",
+    description: "IIFT provides hostel and food facilities for outstation students with the best health and hygiene to make you feel home away from home.",
     bgColor: "bg-[#ED1C24]",
   },
   {
     title: "Global Exposure",
-    description: "Expose yourself to the world with global alliances at IIFD with esteemed organizations like ELIA, IIID, FDCI, ADI etc.",
+    description: "Expose yourself to the world with global alliances at IIFT with esteemed organizations like ELIA, IIID, FDCI, ADI etc.",
     bgColor: "bg-[#111111]",
   },
 ];

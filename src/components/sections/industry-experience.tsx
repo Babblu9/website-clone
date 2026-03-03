@@ -12,7 +12,7 @@ const IndustryExperience = () => {
               Blurring The Lines Between Classroom & Career
             </h3>
             <p className="font-body text-[16px] leading-[1.8] text-[#54595f]">
-              IIFD Provides first-hand industry experience. Regular Industrial
+              IIFT Provides first-hand industry experience. Regular Industrial
               visits at Buying Houses, Product Houses & Brand Warehouses is a
               proven success fact for students here. We make you learn what
               helps you in writing your success story.
@@ -38,13 +38,13 @@ const IndustryExperience = () => {
             </h3>
             <div className="space-y-6">
               <p className="font-body text-[16px] leading-[1.8] text-[#54595f]">
-                Study at IIFD is not limited to Theories Only. Your classroom at
-                IIFD is Skill & Talent Refinement Hub where expert faculty
+                Study at IIFT is not limited to Theories Only. Your classroom at
+                IIFT is Skill & Talent Refinement Hub where expert faculty
                 assist you with high tech labs & instruments to expand learning
                 beyond the horizons.
               </p>
               <p className="font-body text-[16px] leading-[1.8] text-[#54595f]">
-                IIFD campus sits in the heart of Chandigarh, putting students just
+                IIFT campus sits in the heart of Chandigarh, putting students just
                 minutes away from the entertainment, cultural riches and
                 opportunities of “The Most Perfect City In The World.”
               </p>

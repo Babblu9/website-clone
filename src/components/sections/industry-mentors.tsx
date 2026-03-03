@@ -5,22 +5,22 @@ const mentors = [
   {
     name: "Asmita Marwa",
     role: "Celebrity Fashion Designer",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD_Mentor_Asmita-Marwa-13.jpg"
+    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFD_Mentor_Asmita-Marwa-13.jpg"
   },
   {
     name: "Akash mehta",
     role: "Lighting Expert",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD_Mentor_Akash-mehta-14.jpg"
+    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFD_Mentor_Akash-mehta-14.jpg"
   },
   {
     name: "Chela Evans",
     role: "Director, Cvent (Australia)",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD_Mentor_Chela-Evans-15.jpg"
+    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFD_Mentor_Chela-Evans-15.jpg"
   },
   {
     name: "Ankit V Kapoor",
     role: "Celebrity Fashion Designer",
-    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD_Mentor_Ankit-V-kapoor-16.jpg"
+    image: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFD_Mentor_Ankit-V-kapoor-16.jpg"
   }
 ];
 

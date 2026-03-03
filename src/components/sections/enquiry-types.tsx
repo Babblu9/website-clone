@@ -5,22 +5,22 @@ const EnquiryTypes = () => {
   const enquiries = [
     {
       title: 'General Enquiries',
-      email: 'info@iifd.in',
+      email: 'info@iift.in',
       icon: <Target className="w-[35px] h-[35px]" strokeWidth={2.5} />,
     },
     {
       title: 'Student Enquiries',
-      email: 'iifdians@iifd.in',
+      email: 'iifdians@iift.in',
       icon: <GraduationCap className="w-[35px] h-[35px]" strokeWidth={2.5} />,
     },
     {
       title: 'Franchise Enquiries',
-      email: 'franchise@iifd.in',
+      email: 'franchise@iift.in',
       icon: <Briefcase className="w-[35px] h-[35px]" strokeWidth={2.5} />,
     },
     {
       title: 'Media & Collaborations',
-      email: 'relations@iifd.in',
+      email: 'relations@iift.in',
       icon: <Newspaper className="w-[35px] h-[35px]" strokeWidth={2.5} />,
     },
   ];

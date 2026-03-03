@@ -1,19 +1,50 @@
-import React from 'react';
+import React from "react";
+import CourseTemplate from "@/components/sections/course-template";
 
 export const metadata = {
-  title: 'Advance Diploma In Interior Designing | IIFD - Indian Institute of Fashion & Design',
-  description: 'Advance Diploma In Interior Designing at IIFD - Best Fashion Designing College in India',
+  title: "Advanced Diploma Certificate (2 Years) | IIFT",
+  description: "Learn about the Advanced Diploma Certificate (2 Years) program at IIFT.",
 };
 
-export default function AdvanceDiplomaInInteriorDesigningPage() {
+export default function CoursePage() {
   return (
-    <div className="min-h-[60vh] flex flex-col items-center justify-center p-8 text-center mt-[100px]">
-      <h1 className="text-4xl font-display font-bold text-[#E1211A] uppercase mb-4 tracking-wider">
-        Advance Diploma In Interior Designing
-      </h1>
-      <p className="font-body text-[#54595F] max-w-2xl mx-auto text-[18px]">
-        This page is currently under construction. Please check back later for updates on the Advance Diploma In Interior Designing program and details.
-      </p>
-    </div>
+    <CourseTemplate
+      title="Advanced Diploma Certificate (2 Years)"
+      category="Interior Design"
+      duration="24 Months"
+      eligibility="Candidates should have passed Class XII from any recognized board."
+      seats="15"
+      location="Hyderabad"
+      intro={
+        <div className="space-y-4" dangerouslySetInnerHTML={{ __html: `
+      <p>A Two-Year Advanced Diploma in Interior Design delves deeper into complex design theories, sustainable practices, commercial space planning, and advanced digital software. It prepares students for more technical and specialized roles in the industry.</p>
+    ` }} />
+      }
+      structure={
+        <div className="space-y-4" dangerouslySetInnerHTML={{ __html: `
+      <ul className="list-disc pl-5 space-y-2">
+        <li>Advanced Space Planning (Commercial, Retail, Hospitality)</li>
+        <li>Building Services (HVAC, Plumbing, Acoustics)</li>
+        <li>Lighting Design</li>
+        <li>Advanced Software (3ds Max, Revit, V-Ray)</li>
+        <li>Sustainable and Eco-Friendly Design Practices</li>
+        <li>Estimating, Costing, and Professional Practice</li>
+        <li>Project Management</li>
+        <li>Major Design Project / Internship</li>
+      </ul>
+    ` }} />
+      }
+      careerOptions={
+        <div className="space-y-4" dangerouslySetInnerHTML={{ __html: `
+      <ul className="list-disc pl-5 space-y-2">
+        <li>Interior Designer</li>
+        <li>Retail/Commercial Space Designer</li>
+        <li>Lighting Designer</li>
+        <li>Exhibition/Set Designer</li>
+        <li>Project Coordinator</li>
+      </ul>
+    ` }} />
+      }
+    />
   );
 }

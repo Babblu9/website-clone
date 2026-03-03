@@ -8,7 +8,7 @@ const ApplicationHero = () => {
       {/* Background Image Overlay */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/pexels-ray-piedra-1478477-2-4.jpg"
+          src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/pexels-ray-piedra-1478477-2-4.jpg"
           alt="Art Supplies Workspace"
           fill
           className="object-cover"
@@ -57,8 +57,8 @@ const ApplicationHero = () => {
           {/* Circular Badge */}
           <div className="absolute -top-10 -right-10 md:-top-16 md:-right-16 w-32 h-32 md:w-44 md:h-44 z-30">
             <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/Group-262-1-2.png"
-              alt="iifd badge"
+              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/Group-262-1-2.png"
+              alt="iift badge"
               width={176}
               height={176}
               className="w-full h-full object-contain"
@@ -71,7 +71,7 @@ const ApplicationHero = () => {
               <span className="text-black">FOR A GREAT CAREER TOMORROW.</span>
             </h2>
             <p className="text-[#000000] font-body text-[13px] md:text-[15px] leading-[1.6] max-w-[700px]">
-              Great Things Never Came from comfort zones. Reserve your seat today by applying through online application at IIFD.
+              Great Things Never Came from comfort zones. Reserve your seat today by applying through online application at IIFT.
             </p>
           </div>
 

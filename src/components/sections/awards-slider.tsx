@@ -6,27 +6,27 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const awardsData = [
   {
     title: "Proud Moment!",
-    description: "We are thrilled to announce that IIFD have been awarded the prestigious title of ‘Most Leading Design College 2023’ at the 17th Edition of #TheEducationSummit held at Radisson RED, Mohali, Chandigarh. Grateful for this recognition and honored to be associated with the Government of Haryana."
+    description: "We are thrilled to announce that IIFT have been awarded the prestigious title of ‘Most Leading Design College 2023’ at the 17th Edition of #TheEducationSummit held at Radisson RED, Mohali, Chandigarh. Grateful for this recognition and honored to be associated with the Government of Haryana."
   },
   {
     title: "5th rank Pan India among the top 40 private design colleges by the IIRF ranking",
-    description: "We are proud to announce that the Indian Institute of Fashion & Design (IIFD) has been ranked 5th in Pan India among the top 40 private design colleges by the IIRF ranking. This achievement marks yet another significant milestone in our ongoing journey of excellence in the field of design education."
+    description: "We are proud to announce that the Indian Institute of Fashion Technology & Design (IIFT) has been ranked 5th in Pan India among the top 40 private design colleges by the IIRF ranking. This achievement marks yet another significant milestone in our ongoing journey of excellence in the field of design education."
   },
   {
-    title: "Collaboration between Times Lifestyle Week and IIFD",
-    description: "We are thrilled to announce the collaboration between Times Lifestyle Week and the Indian Institute of Fashion & Design (IIFD) as a Powered-By partner. This partnership presents our students with an exceptional opportunity to showcase their talent and collections on a global runway, highlighting the innovative and creative spirit of IIFD."
+    title: "Collaboration between Times Lifestyle Week and IIFT",
+    description: "We are thrilled to announce the collaboration between Times Lifestyle Week and the Indian Institute of Fashion Technology & Design (IIFT) as a Powered-By partner. This partnership presents our students with an exceptional opportunity to showcase their talent and collections on a global runway, highlighting the innovative and creative spirit of IIFT."
   },
   {
     title: "ET Women Inspiring Leader Award",
-    description: "Vimi Vansil, Director of IIFD, receives the ET Women Inspiring Leader Award from former Miss Universe, Sushmita Sen. This prestigious accolade recognizes Vansil’s exceptional leadership in empowering women and fostering innovation in the design industry. Her visionary guidance at IIFD has not only shaped aspiring designers but also inspired a new generation of female leaders."
+    description: "Vimi Vansil, Director of IIFT, receives the ET Women Inspiring Leader Award from former Miss Universe, Sushmita Sen. This prestigious accolade recognizes Vansil’s exceptional leadership in empowering women and fostering innovation in the design industry. Her visionary guidance at IIFT has not only shaped aspiring designers but also inspired a new generation of female leaders."
   },
   {
     title: "Best Design College - 2024",
-    description: "In 2024, IIFD proudly earned the esteemed distinction of being named the “Best Design College Award.” This prestigious accolade underscores the institute’s exceptional dedication to cultivating the skills and talents of future designers. Renowned for its forward-thinking and creative approach."
+    description: "In 2024, IIFT proudly earned the esteemed distinction of being named the “Best Design College Award.” This prestigious accolade underscores the institute’s exceptional dedication to cultivating the skills and talents of future designers. Renowned for its forward-thinking and creative approach."
   },
   {
     title: "Most Emerging Design Institute - 2023",
-    description: "IIFD has been awarded the “Most Emerging Design Institute” in the design industry in 2023, acknowledging the institute’s exceptional contributions towards the education and training of future designers. The institute has been applauded for its innovative and creative approach."
+    description: "IIFT has been awarded the “Most Emerging Design Institute” in the design industry in 2023, acknowledging the institute’s exceptional contributions towards the education and training of future designers. The institute has been applauded for its innovative and creative approach."
   }
 ];
 

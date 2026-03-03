@@ -9,7 +9,7 @@ const AdmissionForm = () => {
             Study At Best Fashion Designing College
           </h4>
           <h2 className="font-display font-black text-white text-[36px] md:text-[54px] leading-tight">
-            Study at IIFD
+            Study at IIFT
           </h2>
         </div>
 
@@ -118,7 +118,7 @@ const AdmissionForm = () => {
                 required
               />
               <label htmlFor="consent" className="font-body text-[12px] md:text-[13px] text-medium-gray leading-tight cursor-pointer">
-                I agree to receive information by signing up on Indian Institute Of Fashion & Design *
+                I agree to receive information by signing up on Indian Institute of Fashion Technology & Design *
               </label>
             </div>
 

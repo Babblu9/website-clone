@@ -40,15 +40,15 @@ const Footer = () => {
           <div className="flex flex-col">
             <div className="mb-6">
               <Image 
-                src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/Logo-150x150-13.png"
-                alt="IIFD - Indian Institute of Fashion & Design" 
+                src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/Logo-150x150-13.png"
+                alt="IIFT - Indian Institute of Fashion Technology & Design" 
                 width={100} 
                 height={100}
                 className="object-contain"
               />
             </div>
             <p className="text-[14px] leading-[1.8] text-white/80 mb-8 max-w-[280px]">
-              IIFD is the best fashion Designing college in India with 40+ fashion design courses offering like diploma, undergraduate and postgraduate programs. IIFD ensures 100% placements and is awarded two years consecutively as Best Fashion Institute in Chandigarh, Kolkata India.
+              IIFT is the best fashion Designing college in India with 40+ fashion design courses offering like diploma, undergraduate and postgraduate programs. IIFT ensures 100% placements and is awarded two years consecutively as Best Fashion Institute in Chandigarh, Kolkata India.
             </p>
             <div className="flex items-center gap-4">
               {socialLinks.map((social, idx) => (
@@ -99,8 +99,8 @@ const Footer = () => {
                 <div className="mt-1">
                   <Mail size={20} className="text-white fill-white/10" />
                 </div>
-                <a href="mailto:info@iifd.in" className="text-[14px] text-white/80 hover:text-white transition-colors">
-                  info@iifd.in
+                <a href="mailto:info@iift.in" className="text-[14px] text-white/80 hover:text-white transition-colors">
+                  info@iift.in
                 </a>
               </div>
               <div className="flex items-start gap-4">
@@ -158,7 +158,7 @@ const Footer = () => {
         <div className="mt-[60px] pt-8 border-t border-white/10">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-[12px] text-white/60 text-center md:text-left">
-              Copyright © 2026 Indian Institute of Fashion & Design
+              Copyright © 2026 Indian Institute of Fashion Technology & Design
             </p>
             <div className="flex items-center gap-6 text-[12px] text-white/60">
               <a href="#" className="hover:text-white transition-colors">Terms of use</a>

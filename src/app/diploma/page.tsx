@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Diploma | IIFD - Indian Institute of Fashion & Design',
-  description: 'Diploma at IIFD - Best Fashion Designing College in India',
+  title: 'Diploma | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Diploma at IIFT - Best Fashion Designing College in India',
 };
 
 export default function DiplomaPage() {

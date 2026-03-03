@@ -72,7 +72,7 @@ export default function IIFDAdvantage() {
         {/* Title */}
         <div className="text-center mb-16">
           <h2 className="font-display text-[28px] md:text-[36px] font-bold tracking-wider uppercase">
-            #IIFD Advantage
+            #IIFT Advantage
           </h2>
         </div>
 

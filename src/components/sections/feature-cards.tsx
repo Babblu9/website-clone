@@ -43,26 +43,26 @@ const FeatureCards: React.FC = () => {
     {
       icon: <Building2 size={32} strokeWidth={2.5} />,
       title: "Admissions",
-      description: "Shape your creativity into a bright future…. By taking admission in the best fashion design institute in India. Admissions & Scholarships at the institution is completely based on merit at best fashion design college in India; Indian Institute of Fashion & Design.",
-      link: "https://iifd.in/admissions/"
+      description: "Shape your creativity into a bright future…. By taking admission in the best fashion design institute in India. Admissions & Scholarships at the institution is completely based on merit at best fashion design college in India; Indian Institute of Fashion Technology & Design.",
+      link: "https://iift.in/admissions/"
     },
     {
       icon: <Layers size={32} strokeWidth={2.5} />,
       title: "Courses",
-      description: "Still, deciding what do you want to study? Browse the full range of professional courses in India Best Fashion design college (Indian Institute of Fashion & Design). The college courses are job oriented which will bring bright prospects for your career.",
-      link: "https://iifd.in/courses/"
+      description: "Still, deciding what do you want to study? Browse the full range of professional courses in India Best Fashion design college (Indian Institute of Fashion Technology & Design). The college courses are job oriented which will bring bright prospects for your career.",
+      link: "https://iift.in/courses/"
     },
     {
       icon: <BookOpen size={32} strokeWidth={2.5} />,
       title: "Academics",
-      description: "The Academics offers excellence through various academic courses in Chandigarh and out of the classrooms with esteemed experienced faculty members. To boost quality academic success IIFD ensures proper up-gradation of the institution.",
-      link: "https://iifd.in/academics/"
+      description: "The Academics offers excellence through various academic courses in Chandigarh and out of the classrooms with esteemed experienced faculty members. To boost quality academic success IIFT ensures proper up-gradation of the institution.",
+      link: "https://iift.in/academics/"
     },
     {
       icon: <Briefcase size={32} strokeWidth={2.5} />,
       title: "Career",
-      description: "Indian Institute of fashion & Design placement cell through its experienced placement team will help you locate the right job after completing fashion designing courses and other professional courses through the Indian Institute of Fashion & Designs.",
-      link: "https://iifd.in/training-and-placement/"
+      description: "Indian Institute of Fashion Technology & Design placement cell through its experienced placement team will help you locate the right job after completing fashion designing courses and other professional courses through the Indian Institute of Fashion Technology & Designs.",
+      link: "https://iift.in/training-and-placement/"
     }
   ];
 

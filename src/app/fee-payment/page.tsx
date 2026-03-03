@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Fee Payment | IIFD - Indian Institute of Fashion & Design',
-  description: 'Fee Payment at IIFD - Best Fashion Designing College in India',
+  title: 'Fee Payment | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Fee Payment at IIFT - Best Fashion Designing College in India',
 };
 
 export default function FeePaymentPage() {

@@ -30,7 +30,7 @@ const IIFDTalks = () => {
           {/* Left Title Block (Black) */}
           <div className="w-full md:w-[35%] bg-[#111111] flex flex-col justify-center p-12 lg:p-16">
             <h4 className="font-display text-[42px] font-bold leading-[1.1] text-white tracking-tight">
-              IIFD
+              IIFT
               <br />
               Talks
             </h4>

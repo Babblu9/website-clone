@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Advance Diploma In Textile Designing | IIFD - Indian Institute of Fashion & Design',
-  description: 'Advance Diploma In Textile Designing at IIFD - Best Fashion Designing College in India',
+  title: 'Advance Diploma In Textile Designing | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Advance Diploma In Textile Designing at IIFT - Best Fashion Designing College in India',
 };
 
 export default function AdvanceDiplomaInTextileDesigningPage() {

@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Hostel | IIFD - Indian Institute of Fashion & Design',
-  description: 'Hostel at IIFD - Best Fashion Designing College in India',
+  title: 'Hostel | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Hostel at IIFT - Best Fashion Designing College in India',
 };
 
 export default function HostelPage() {

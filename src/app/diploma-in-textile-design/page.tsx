@@ -12,7 +12,7 @@ import CtaBanner from '@/components/sections/cta-banner';
 import FAQAccordion from '@/components/sections/faq';
 
 export const metadata = {
-  title: 'Diploma in Textile Design | IIFD - Indian Institute of Fashion & Design',
+  title: 'Diploma in Textile Design | IIFT - Indian Institute of Fashion Technology & Design',
   description: 'Diploma in textile designing course will help you to understand and develop your sole creative skills.',
 };
 

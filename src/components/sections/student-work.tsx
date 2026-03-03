@@ -38,7 +38,7 @@ const StudentWork: React.FC = () => {
             </div>
           </div>
 
-          {/* Slider Controls / Pagination Dots (Mockup based on typical IIFD slider style) */}
+          {/* Slider Controls / Pagination Dots (Mockup based on typical IIFT slider style) */}
           <div className="absolute bottom-6 left-0 right-0 flex justify-center gap-[6px]">
             {Array.from({ length: 30 }).map((_, i) => (
               <span 

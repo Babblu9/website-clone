@@ -37,12 +37,12 @@ const Header = () => {
       title: "COURSES",
       href: "#",
       submenu: [
-        { title: "DIPLOMA", href: "/diploma" },
-        { title: "Advanced Diploma", href: "/advanced-diploma" },
-        { title: "MASTER’S DIPLOMA", href: "/masters-diploma" },
-        { title: "UG DEGREE", href: "/ug-degree" },
-        { title: "PG DEGREE", href: "/pg-degree" },
-        { title: "SPECIALIZED PROGRAMS", href: "/specialized-programs" },
+        { title: "Fashion Design", href: "/bsc-in-fashion-design" },
+        { title: "Interior Design", href: "/bsc-in-interior-design" },
+        { title: "Textile Design", href: "/bsc-in-textile-design" },
+        { title: "Luxury Brand Management", href: "/diploma-luxury-brand-management" },
+        { title: "Art & Craft", href: "/art-and-craft" },
+        { title: "Boutique Management", href: "/boutique-management" },
       ],
     },
     {
@@ -53,14 +53,14 @@ const Header = () => {
         { title: "For Parents", href: "/for-parents" },
         { title: "Fee Payment", href: "/fee-payment" },
         { title: "Student Work", href: "/student-work" },
-        { title: "Insights @ IIFD", href: "/blogs" },
+        { title: "Insights @ IIFT", href: "/blogs" },
       ],
     },
     {
       title: "CAMPUS",
       href: "#",
       submenu: [
-        { title: "Campus Life", href: "/life-at-iifd" },
+        { title: "Campus Life", href: "/life-at-iift" },
         { title: "Hostel", href: "/hostel" },
         { title: "Celebrity Visits", href: "/celebrity-visits" },
         { title: "Training and placements", href: "/training-and-placement" },
@@ -73,9 +73,8 @@ const Header = () => {
 
   return (
     <header
-      className={`fixed top-0 left-0 w-full z-[1000] transition-all duration-300 bg-[#ED1C24] ${
-        isSticky ? "py-2 shadow-lg" : "py-4"
-      }`}
+      className={`fixed top-0 left-0 w-full z-[1000] transition-all duration-300 bg-[#ED1C24] ${isSticky ? "py-2 shadow-lg" : "py-4"
+        }`}
     >
       <div className="container mx-auto px-5 lg:px-10 flex items-center justify-between">
         {/* Logo */}
@@ -83,8 +82,8 @@ const Header = () => {
           <a href="/" className="relative block">
             <div className="bg-white rounded-full p-1 shadow-md w-[80px] h-[80px] flex items-center justify-center">
               <Image
-                src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/Logo-1.png"
-                alt="IIFD - Indian Institute of Fashion & Design"
+                src="/logo-iiftd.png"
+                alt="IIFT - Indian Institute of Fashion Technology & Design"
                 width={70}
                 height={70}
                 className="object-contain"
@@ -106,7 +105,7 @@ const Header = () => {
                   {item.title}
                   {item.submenu && <ChevronDown size={14} className="stroke-[3px]" />}
                 </a>
-                
+
                 {item.submenu && (
                   <ul className="absolute left-0 top-full mt-0 w-[240px] bg-white shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 py-2 border-t-2 border-[#ED1C24]">
                     {item.submenu.map((sub, subIndex) => (
@@ -152,14 +151,13 @@ const Header = () => {
 
       {/* Mobile Sidebar */}
       <div
-        className={`fixed top-0 left-0 h-full w-[300px] bg-white z-[1002] transform transition-transform duration-300 ease-in-out ${
-          isSidebarOpen ? "translate-x-0" : "-translate-x-full"
-        }`}
+        className={`fixed top-0 left-0 h-full w-[300px] bg-white z-[1002] transform transition-transform duration-300 ease-in-out ${isSidebarOpen ? "translate-x-0" : "-translate-x-full"
+          }`}
       >
         <div className="p-5 flex justify-between items-center bg-[#ED1C24]">
           <div className="bg-white rounded-full p-1 w-[60px] h-[60px] flex items-center justify-center">
             <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/Logo-1.png"
+              src="/logo-iiftd.png"
               alt="Logo"
               width={50}
               height={50}

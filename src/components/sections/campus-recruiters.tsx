@@ -4,49 +4,49 @@ import Image from 'next/image';
 const CampusRecruiters = () => {
   const recruiters = [
     {
-      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-satya-paul-2.webp",
+      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-satya-paul-2.webp",
       alt: "Satya Paul Logo",
       width: 160,
       height: 60
     },
     {
-      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-Marks-and-spencer-4.webp",
+      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-Marks-and-spencer-4.webp",
       alt: "Marks & Spencer Logo",
       width: 160,
       height: 60
     },
     {
-      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-textile-association-of-India-6.webp",
+      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-textile-association-of-India-6.webp",
       alt: "The Textile Association India Logo",
       width: 160,
       height: 60
     },
     {
-      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/Zee-logo-Png-1024x536-8.png",
+      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/Zee-logo-Png-1024x536-8.png",
       alt: "Zee Logo",
       width: 160,
       height: 60
     },
     {
-      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-times-of-india-3.webp",
+      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-times-of-india-3.webp",
       alt: "The Times of India Logo",
       width: 160,
       height: 80
     },
     {
-      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-Punjab-bespoke-5.webp",
+      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-Punjab-bespoke-5.webp",
       alt: "Panjab Bespoke Logo",
       width: 160,
       height: 80
     },
     {
-      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-with-Redress--7.webp",
+      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-with-Redress--7.webp",
       alt: "Redress Logo",
       width: 160,
       height: 80
     },
     {
-      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/IIFD-iwith-UI-international-fashion-week-9.webp",
+      src: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/IIFT-iwith-UI-international-fashion-week-9.webp",
       alt: "U&I International Fashion Week Logo",
       width: 160,
       height: 80

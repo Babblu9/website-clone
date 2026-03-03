@@ -31,7 +31,7 @@ const PlanVisitCTA: React.FC = () => {
             className="font-body text-[16px] md:text-[18px] text-white leading-[1.6] mb-0"
             style={{ fontFamily: 'var(--font-body)', opacity: 0.95 }}
           >
-            The best way to understand what makes IIFD so special is to see it for yourself. 
+            The best way to understand what makes IIFT so special is to see it for yourself. 
             Chat with an admissions advisor, talk to current students, sit in on a class and 
             visit our campus. We can&apos;t wait to meet you!
           </p>

@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Student Review | IIFD - Indian Institute of Fashion & Design',
-  description: 'Student Review at IIFD - Best Fashion Designing College in India',
+  title: 'Student Review | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Student Review at IIFT - Best Fashion Designing College in India',
 };
 
 export default function StudentReviewPage() {

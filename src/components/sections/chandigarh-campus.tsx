@@ -10,7 +10,7 @@ import Image from 'next/image';
  */
 const ChandigarhCampus: React.FC = () => {
   // Asset extracted from the provided list
-  const cityImage = "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/10-4.webp";
+  const cityImage = "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iift-in/assets/images/10-4.webp";
 
   return (
     <section className="relative w-full overflow-hidden bg-white py-[60px] md:py-[100px]">
@@ -40,7 +40,7 @@ const ChandigarhCampus: React.FC = () => {
                   fontWeight: 400
                 }}
               >
-                IIFD campus sits in the heart of Chandigarh, putting students just minutes away from the entertainment, cultural riches and opportunities of “The Most Perfect City In The World.”
+                IIFT campus sits in the heart of Chandigarh, putting students just minutes away from the entertainment, cultural riches and opportunities of “The Most Perfect City In The World.”
               </p>
             </div>
           </div>

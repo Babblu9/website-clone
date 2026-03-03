@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Faq | IIFD - Indian Institute of Fashion & Design',
-  description: 'Faq at IIFD - Best Fashion Designing College in India',
+  title: 'Faq | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Faq at IIFT - Best Fashion Designing College in India',
 };
 
 export default function FaqPage() {

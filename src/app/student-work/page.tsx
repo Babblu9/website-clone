@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Student Work | IIFD - Indian Institute of Fashion & Design',
-  description: 'Student Work at IIFD - Best Fashion Designing College in India',
+  title: 'Student Work | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Student Work at IIFT - Best Fashion Designing College in India',
 };
 
 export default function StudentWorkPage() {

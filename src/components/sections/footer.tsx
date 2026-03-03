@@ -1,21 +1,21 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { 
-  Facebook, 
-  Instagram, 
-  Youtube, 
-  Twitter, 
-  Linkedin, 
-  Twitter as SnapChat, 
-  Phone, 
-  Mail, 
-  MapPin, 
-  Briefcase 
+import {
+  Facebook,
+  Instagram,
+  Youtube,
+  Twitter,
+  Linkedin,
+  Twitter as SnapChat,
+  Phone,
+  Mail,
+  MapPin,
+  Briefcase
 } from 'lucide-react';
 
 /**
- * Footer component for the Indian Institute of Fashion Design (IIFD).
+ * Footer component for the Indian Institute of Fashion Design (IIFT).
  * Styled to be pixel-perfect based on the provided design system and screen references.
  * Features a dark theme (Near Black #111111) as specified in the instructions.
  */
@@ -26,21 +26,21 @@ const Footer = () => {
     <footer className="bg-[#111111] text-white pt-[60px] pb-[20px] font-body selection:bg-brand-red selection:text-white">
       <div className="container mx-auto max-w-[1200px] px-4">
         <div className="grid grid-cols-1 md:grid-cols-12 gap-10 md:gap-8 mb-12">
-          
+
           {/* Column 1: Institute Info & Socials */}
           <div className="md:col-span-4 flex flex-col items-start gap-6">
             <div className="bg-white p-2 rounded-full overflow-hidden inline-block mb-2">
-              <Image 
-                src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/161f0af2-b637-4d07-a0db-38762c25e241-iifd-in/assets/images/Logo-1.png"
-                alt="IIFD - Indian Institute of Fashion & Design"
+              <Image
+                src="/logo-iiftd.png"
+                alt="IIFT - Indian Institute of Fashion Technology & Design"
                 width={70}
                 height={70}
                 className="object-contain"
               />
             </div>
-            
+
             <p className="text-[13px] leading-[1.8] text-[#cccccc] font-light max-w-[340px]">
-              IIFD is the best fashion Designing college in India with 40+ fashion design courses offering like diploma, undergraduate and postgraduate programs. IIFD ensures 100% placements and is awarded two years consecutively as Best Fashion Institute in Chandigarh, Kolkata India.
+              IIFT is the best fashion Designing college in India with 40+ fashion design courses offering like diploma, undergraduate and postgraduate programs. IIFT ensures 100% placements and is awarded two years consecutively as Best Fashion Institute in Chandigarh, Kolkata India.
             </p>
 
             <div className="flex flex-wrap gap-3 mt-4">
@@ -89,7 +89,7 @@ const Footer = () => {
             <h4 className="text-[20px] font-bold font-display mb-8 relative after:content-[''] after:absolute after:bottom-[-10px] after:left-0 after:w-10 after:h-[3px] after:bg-brand-red">
               Contact
             </h4>
-            
+
             <div className="space-y-6">
               <div className="flex items-start gap-4">
                 <Phone className="text-brand-red flex-shrink-0 mt-1" size={18} />
@@ -101,7 +101,7 @@ const Footer = () => {
 
               <div className="flex items-center gap-4">
                 <Mail className="text-brand-red flex-shrink-0" size={18} />
-                <a href="mailto:info@iifd.in" className="text-[14px] text-[#cccccc] hover:text-white transition-colors">info@iifd.in</a>
+                <a href="mailto:info@iift.in" className="text-[14px] text-[#cccccc] hover:text-white transition-colors">info@iift.in</a>
               </div>
 
               <div className="flex items-start gap-4">
@@ -142,9 +142,9 @@ const Footer = () => {
         {/* Bottom Bar: Copyright and Legal */}
         <div className="pt-8 mt-8 border-t border-gray-800 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-[12px] text-gray-500 font-medium">
-            Copyright © {currentYear} Indian Institute of Fashion & Design
+            Copyright © {currentYear} Indian Institute of Fashion Technology & Design
           </p>
-          
+
           <div className="flex flex-wrap justify-center gap-4 text-[12px] text-gray-500 uppercase tracking-wider font-semibold">
             <Link href="/terms-of-use" className="hover:text-brand-red transition-colors">Terms of use</Link>
             <span className="text-gray-700">|</span>

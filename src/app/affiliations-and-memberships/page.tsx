@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Affiliations And Memberships | IIFD - Indian Institute of Fashion & Design',
-  description: 'Affiliations And Memberships at IIFD - Best Fashion Designing College in India',
+  title: 'Affiliations And Memberships | IIFT - Indian Institute of Fashion Technology & Design',
+  description: 'Affiliations And Memberships at IIFT - Best Fashion Designing College in India',
 };
 
 export default function AffiliationsAndMembershipsPage() {

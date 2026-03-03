@@ -71,7 +71,7 @@ export default function IIFDAdvantage() {
       <div className="container mx-auto max-w-[1140px]">
         {/* Section Heading */}
         <h2 className="text-white text-center text-[32px] md:text-[42px] font-bold mb-[60px] tracking-tight font-display">
-          #IIFD ADVANTAGE
+          #IIFT ADVANTAGE
         </h2>
 
         {/* Advantage Grid */}

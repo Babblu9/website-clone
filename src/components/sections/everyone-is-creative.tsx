@@ -7,7 +7,7 @@ import React from 'react';
  * challenging design notions, and a small-print legal disclaimer.
  * 
  * High-level design alignment:
- * - Color: #ED1C24 (IIFD Red), #333333 (Text Dark)
+ * - Color: #ED1C24 (IIFT Red), #333333 (Text Dark)
  * - Typography: Montserrat (Headings), Roboto (Body)
  * - Layout: Asymmetrical, wide spacing, 1200px max container.
  */

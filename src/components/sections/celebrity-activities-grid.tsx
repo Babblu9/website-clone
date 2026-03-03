@@ -8,7 +8,7 @@ import React from 'react';
 const CelebrityActivitiesGrid: React.FC = () => {
   const activities = [
     {
-      title: "Yuvika Chaudhary Turned Showstopper for IIFD",
+      title: "Yuvika Chaudhary Turned Showstopper for IIFT",
       colSpan: "md:col-span-1",
       rowSpan: "md:row-span-1",
     },
@@ -23,12 +23,12 @@ const CelebrityActivitiesGrid: React.FC = () => {
       rowSpan: "md:row-span-1",
     },
     {
-      title: "Fresher's Bash @ IIFD",
+      title: "Fresher's Bash @ IIFT",
       colSpan: "md:col-span-1",
       rowSpan: "md:row-span-1",
     },
     {
-      title: "IIFD workshop",
+      title: "IIFT workshop",
       colSpan: "md:col-span-1",
       rowSpan: "md:row-span-1",
     },
@@ -43,7 +43,7 @@ const CelebrityActivitiesGrid: React.FC = () => {
             College has never been so fun
           </h2>
           <p className="font-body text-[16px] leading-[1.8] text-[#54595f] max-w-[1100px] mx-auto">
-            Students at IIFD carry out different activities apart from their academics. The college offers the students numerous opportunities to showcase their skills and talents in the non-academic fields too. The possibilities are endless but time is a constraint. So Join now the strong community of budding designers, Industry experts and scholars!
+            Students at IIFT carry out different activities apart from their academics. The college offers the students numerous opportunities to showcase their skills and talents in the non-academic fields too. The possibilities are endless but time is a constraint. So Join now the strong community of budding designers, Industry experts and scholars!
           </p>
         </div>
 
@@ -52,7 +52,7 @@ const CelebrityActivitiesGrid: React.FC = () => {
           {/* Item 1 - Large Top Left */}
           <div className="lg:col-span-3 aspect-square md:aspect-auto md:h-[400px] bg-[#ed1c24] p-8 flex flex-col justify-end transition-transform duration-300 hover:scale-[1.01] cursor-pointer group">
             <h3 className="font-body text-[18px] font-semibold text-white leading-[1.2]">
-              Yuvika Chaudhary Turned Showstopper for IIFD
+              Yuvika Chaudhary Turned Showstopper for IIFT
             </h3>
           </div>
 
@@ -73,26 +73,26 @@ const CelebrityActivitiesGrid: React.FC = () => {
           {/* Item 4 - Bottom Center */}
           <div className="lg:col-span-1 aspect-square md:aspect-auto md:h-[350px] bg-[#ed1c24] p-8 flex flex-col justify-end transition-transform duration-300 hover:scale-[1.01] cursor-pointer group">
             <h3 className="font-body text-[18px] font-semibold text-white leading-[1.2]">
-              Fresher's Bash @ IIFD
+              Fresher's Bash @ IIFT
             </h3>
           </div>
 
           {/* Item 5 - Bottom Right */}
           <div className="lg:col-span-2 aspect-square md:aspect-auto md:h-[350px] bg-[#ed1c24] p-8 flex flex-col justify-end transition-transform duration-300 hover:scale-[1.01] cursor-pointer group">
             <h3 className="font-body text-[18px] font-semibold text-white leading-[1.2]">
-              IIFD workshop
+              IIFT workshop
             </h3>
           </div>
         </div>
       </div>
 
-      {/* IIFD Talks Preview Section */}
+      {/* IIFT Talks Preview Section */}
       <div className="container mx-auto px-5 mt-[60px]">
         <div className="max-w-[1200px] mx-auto border-t-[5px] border-[#ed1c24] shadow-[0px_5px_15px_rgba(0,0,0,0.1)] flex flex-col md:flex-row min-h-[250px] overflow-hidden">
           {/* Black Side Panel */}
           <div className="bg-[#111111] md:w-[25%] p-10 flex flex-col justify-center items-start text-white">
             <h4 className="font-display text-[28px] font-bold leading-tight">
-              IIFD<br />Talks
+              IIFT<br />Talks
             </h4>
           </div>
           
